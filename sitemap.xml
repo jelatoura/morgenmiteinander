@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jelatoura.github.io/morgenmiteinander/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jelatoura.github.io/morgenmiteinander/</loc>
+</url>
+<url>
+<loc>https://jelatoura.github.io/morgenmiteinander/abendlicht.html</loc>
+<lastmod>2021-01-07T16:01:05+01:00</lastmod>
+<image:image>
+<image:loc>https://jelatoura.github.io/morgenmiteinander/media/posts/1/milky-way-4006343_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jelatoura.github.io/morgenmiteinander/in-der-2-reihe.html</loc>
+<lastmod>2021-01-07T16:05:57+01:00</lastmod>
+<image:image>
+<image:loc>https://jelatoura.github.io/morgenmiteinander/media/posts/3/Flyer.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jelatoura.github.io/morgenmiteinander/sinnvolle-busse.html</loc>
+<lastmod>2021-01-07T16:08:43+01:00</lastmod>
+<image:image>
+<image:loc>https://jelatoura.github.io/morgenmiteinander/media/posts/2/paradies_stadel.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Morgen:Miteinander</title>
+    <link href="https://jelatoura.github.io/morgenmiteinander/feed.xml" rel="self" />
+    <link href="https://jelatoura.github.io/morgenmiteinander" />
+    <updated>2021-01-07T16:08:43+01:00</updated>
+    <author>
+        <name>Andachtsteam</name>
+    </author>
+    <id>https://jelatoura.github.io/morgenmiteinander</id>
+
+    <entry>
+        <title>in der 2. Reihe</title>
+        <author>
+            <name>Andachtsteam</name>
+        </author>
+        <link href="https://jelatoura.github.io/morgenmiteinander/in-der-2-reihe.html"/>
+        <id>https://jelatoura.github.io/morgenmiteinander/in-der-2-reihe.html</id>
+
+        <updated>2021-01-07T16:05:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jelatoura.github.io/morgenmiteinander/media/posts/3/Flyer.jpg" alt="" />
+                    Personen aus der zweiten Reihe
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jelatoura.github.io/morgenmiteinander/media/posts/3/Flyer.jpg" alt="" />
+                <p>Personen aus der zweiten Reihe</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sinnvolle Buße</title>
+        <author>
+            <name>Andachtsteam</name>
+        </author>
+        <link href="https://jelatoura.github.io/morgenmiteinander/sinnvolle-busse.html"/>
+        <id>https://jelatoura.github.io/morgenmiteinander/sinnvolle-busse.html</id>
+
+        <updated>2021-01-07T16:08:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jelatoura.github.io/morgenmiteinander/media/posts/2/paradies_stadel.jpg" alt="" />
+                    Die neue Reihe für die Passionszeit 2021
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jelatoura.github.io/morgenmiteinander/media/posts/2/paradies_stadel.jpg" alt="" />
+                <p>Die neue Reihe für die Passionszeit 2021</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>abend:licht</title>
+        <author>
+            <name>Andachtsteam</name>
+        </author>
+        <link href="https://jelatoura.github.io/morgenmiteinander/abendlicht.html"/>
+        <id>https://jelatoura.github.io/morgenmiteinander/abendlicht.html</id>
+
+        <updated>2021-01-07T16:01:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jelatoura.github.io/morgenmiteinander/media/posts/1/milky-way-4006343_1920.jpg" alt="" />
+                    Unsere Abendandachten im Advent
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jelatoura.github.io/morgenmiteinander/media/posts/1/milky-way-4006343_1920.jpg" alt="" />
+                <p>Unsere Abendandachten im Advent</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

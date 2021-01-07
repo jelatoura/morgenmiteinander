@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Morgen:Miteinander",
+    "description": "",
+    "home_page_url": "https://jelatoura.github.io/morgenmiteinander",
+    "feed_url": "https://jelatoura.github.io/morgenmiteinander/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andachtsteam"
+    },
+    "items": [
+        {
+            "id": "https://jelatoura.github.io/morgenmiteinander/in-der-2-reihe.html",
+            "url": "https://jelatoura.github.io/morgenmiteinander/in-der-2-reihe.html",
+            "title": "in der 2. Reihe",
+            "summary": "Personen aus der zweiten Reihe",
+            "content_html": "<p>Personen aus der zweiten Reihe</p>",
+            "image": "https://jelatoura.github.io/morgenmiteinander/media/posts/3/Flyer.jpg",
+            "author": {
+                "name": "Andachtsteam"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-07T16:05:57+01:00",
+            "date_modified": "2021-01-07T16:05:57+01:00"
+        },
+        {
+            "id": "https://jelatoura.github.io/morgenmiteinander/sinnvolle-busse.html",
+            "url": "https://jelatoura.github.io/morgenmiteinander/sinnvolle-busse.html",
+            "title": "Sinnvolle Buße",
+            "summary": "Die neue Reihe für die Passionszeit 2021",
+            "content_html": "<p>Die neue Reihe für die Passionszeit 2021</p>",
+            "image": "https://jelatoura.github.io/morgenmiteinander/media/posts/2/paradies_stadel.jpg",
+            "author": {
+                "name": "Andachtsteam"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-07T15:59:45+01:00",
+            "date_modified": "2021-01-07T16:08:43+01:00"
+        },
+        {
+            "id": "https://jelatoura.github.io/morgenmiteinander/abendlicht.html",
+            "url": "https://jelatoura.github.io/morgenmiteinander/abendlicht.html",
+            "title": "abend:licht",
+            "summary": "Unsere Abendandachten im Advent",
+            "content_html": "<p>Unsere Abendandachten im Advent</p>",
+            "image": "https://jelatoura.github.io/morgenmiteinander/media/posts/1/milky-way-4006343_1920.jpg",
+            "author": {
+                "name": "Andachtsteam"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-07T15:59:06+01:00",
+            "date_modified": "2021-01-07T16:01:05+01:00"
+        }
+    ]
+}
